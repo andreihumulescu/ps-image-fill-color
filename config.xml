@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>imagefillcolor</name>
+    <displayName><![CDATA[Image Fill Color]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[PrestaShop module that enables setting the image fill color for a product image.]]></description>
+    <author><![CDATA[Andrei H]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
