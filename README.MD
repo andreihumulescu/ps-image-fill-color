@@ -39,7 +39,7 @@ That's it: you have contributed to this open source project! Congratulations!
 
 This module is released under the [MIT License][MIT] 
 
-[1]: https://github.com/andreihumulescu/ps-image-fill-color
+[1]: https://github.com/andreihumulescu/ps-image-fill-color/releases
 [2]: https://devdocs.prestashop.com/8/development/coding-standards/
 [3]: https://devdocs.prestashop.com/8/contribute/contribution-guidelines/
 [4]: https://help.github.com/articles/using-pull-requests
