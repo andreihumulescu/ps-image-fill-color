@@ -35,7 +35,7 @@ class ImageFillColor extends Module
         parent::__construct();
 
         $this->displayName = $this->trans('Image Fill Color', [], 'Modules.Imagefillcolor.Admin');
-        $this->description = $this->trans('PrestaShop module that enables setting the image fill color.', [], 'Modules.Imagefillcolor.Admin');
+        $this->description = $this->trans('PrestaShop module that enables setting the image fill color for a product image.', [], 'Modules.Imagefillcolor.Admin');
 
         $this->confirmUninstall = $this->trans('Are you sure you want to uninstall?', [], 'Modules.Imagefillcolor.Admin');
     }

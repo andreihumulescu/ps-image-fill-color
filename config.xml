@@ -3,7 +3,7 @@
     <name>imagefillcolor</name>
     <displayName><![CDATA[Image Fill Color]]></displayName>
     <version><![CDATA[1.0.0]]></version>
-    <description><![CDATA[PrestaShop module that enables setting the image fill color.]]></description>
+    <description><![CDATA[PrestaShop module that enables setting the image fill color for a product image.]]></description>
     <author><![CDATA[Andrei H]]></author>
     <tab><![CDATA[administration]]></tab>
 	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
